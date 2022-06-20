@@ -5,7 +5,7 @@ date: 2022-06-10 13:32:20 +0300
 description: 关于Robocode(optional)
 img: post-6.jpg # Add image post (optional)
 tags: [Blog, Meditation]
-author: 董浩然# Add name author (optional)
+author: 董浩然 # Add name author (optional)
 ---
 Robocode是一个易于使用的机器人战斗模拟器，可在支持Java 2的所有平台上运行。您可以创建一个机器人，将其放置在战场上，并使其与其他开发人员创建的对手机器人进行激烈的战斗。 Robocode带有一组预制的对手，可以帮助您入门，但是一旦超出对手，您就可以与世界上最好的联盟中的世界上最好的联盟对抗，进入自己的创作。
 
